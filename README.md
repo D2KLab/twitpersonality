@@ -1,4 +1,4 @@
-<h2>personalized-marketing</h2>
+<h1>personalized-marketing</h1>
 The goal of this project is developing an application that can create personalized marketing offers, based on the information that can be automatically gathered from online social networks, namely Facebook, Twitter, and LinkedIn.
 The application will be composed of thrre main parts.
 

@@ -11,7 +11,7 @@ y_A = []
 y_N = []
 
 #parse the dataset file one line at a time
-for line in open("mypersonality_final.csv", "r"):
+for line in open("Dataset/mypersonality_final.csv", "r"):
     user_id = line.split(',')[0][1:]
     status = line.split(user_id)[1][3:].split('"",')[0]
     big5 = line.split(status)[1][3:].split(',""')[0].split(",")

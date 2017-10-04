@@ -21,7 +21,7 @@ for line in open("mypersonality_final.csv", "r"):
     y_N.append(big5[1])
     y_A.append(big5[2])
     y_C.append(big5[3])
-    y_O.append(float(big5[4]))
+    y_O.append(big5[4])
 
 if not os.path.exists("Dataset"):
     os.makedirs("Dataset")

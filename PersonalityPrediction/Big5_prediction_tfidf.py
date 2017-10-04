@@ -13,11 +13,11 @@ y_A = []
 y_N = []
 for line in open("Dataset/big5labels.txt", "r"):
     big5_str = line[:-1].split(" ")
-    y_O.append(float(line.split(" ")[0]))
-    y_C.append(float(line.split(" ")[1]))
-    y_E.append(float(line.split(" ")[2]))
-    y_A.append(float(line.split(" ")[3]))
-    y_N.append(float(line.split(" ")[4]))
+    y_O.append(float(big5_str[0]))
+    y_C.append(float(big5_str[1]))
+    y_E.append(float(big5_str[2]))
+    y_A.append(float(big5_str[3]))
+    y_N.append(float(big5_str[4]))
 
 print("Data successfully loaded.")
 

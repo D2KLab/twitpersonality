@@ -1,0 +1,43 @@
+--------------------- General statistics ----------------
+	Number of users	250
+	Number of posts	9913
+	Total words	146128
+	Total characters	804211
+
+---------------- Posts statistics ----------------
+	Average posts per user	39
+	Highest number of posts per user	223
+	Lowest number of posts	1
+
+---------------- Words per post statistics ----------------
+	Average words	14
+	Highest number of words	113
+	Lowest number of words	1
+	Average words after preprocessing	7
+	Highest number of words after preprocessing	57
+	Lowest number of words after preprocessing	0
+
+---------------- Characters per post statistics ----------------
+	Average characters	81
+	Highest number of characters	441
+	Lowest number of characters	2
+	Average characters after preprocessing	47
+	Highest number of characters after preprocessing	320
+	Lowest number of characters after preprocessing	0
+
+---------------- Big5 traits statistics ----------------
+	Average	OPE	4.08
+	Highest	OPE	5.00
+	Lowest	OPE	2.25
+	Average	CON	3.52
+	Highest	CON	5.00
+	Lowest	CON	1.45
+	Average	EXT	3.29
+	Highest	EXT	5.00
+	Lowest	EXT	1.33
+	Average	AGR	3.60
+	Highest	AGR	5.00
+	Lowest	AGR	1.65
+	Average	NEU	2.63
+	Highest	NEU	4.75
+	Lowest	NEU	1.25

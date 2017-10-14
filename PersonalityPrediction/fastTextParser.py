@@ -10,9 +10,5 @@ def parseData():
         percentage = round( (100*(i/int(num_words))),1 )
         i += 1
         print("  %.1f%% complete" %percentage, end="\r")
-
-        if percentage > 2.0:
-            break;
-
     dataset.close()
     return data

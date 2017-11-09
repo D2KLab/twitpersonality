@@ -2,6 +2,14 @@ Parameters' tuning for Machine Learning Models
 ======
 Python 3 scripts to test machine learning models with different parameters and measure their accuracy
 
+Requires
+-----
+* <tt>datasetUtils.py</tt>
+* <tt>embeddings.py</tt>
+* numpy
+* scipy
+* scikit-learn
+
 Description
 -----
 For simplicity, it is provided a bash script <tt>extensiveTuning_OCEAN.sh</tt> that handles all the required programs' launches.
@@ -45,14 +53,33 @@ Usage
 extensiveTuning_OCEAN.sh
 ```
 ### Manual execution
+For <tt>Tuning_LASSO.py</tt> <tt>and Tuning_SVM.py</tt>:
+```
+python <script_name> <BIG5_trait> <embeddings_dataset> <dataset_path> <shuffle_data>
+```
+For <tt>Tuning_LASSO_OCEAN.py</tt> <tt>and Tuning_SVM_OCEAN.py</tt>:
+```
+python <script_name> <BIG5_trait> <embeddings_dataset> <dataset_path> <shuffle_data>
+```
 
+Where:
+* <b>BIG5_trait<b> <tt>O C E A N o c e a n</tt>
+* <b>embeddings_dataset<b> <tt>fasttext dataset9</tt>
+* <b>dataset_path<b> <tt>path/to/the/file</tt>
+* <b>shuffle_data<b> <tt>True False yes no</tt>
 
 
 Output
 -----
+For each machine learning techinque, the shell script will output two text files, a <tt>.csv</tt> and a <tt>.txt</tt>.
+The csv file stores the mean over the 10 cross-validation of the 3 accuracy measures for each combination of the configuration paramenters, while the txt contains the PCC score and relative p-value for each cross-validation iteration and combination.
 
-  
-  
-  
+SVM:
+* <tt>Tuning_SVM_<embeddings_dataset>_<shuffle/noShuffle>.csv</tt> 
+* <tt>Tuning_SVM_<embeddings_dataset>_<shuffle/noShuffle>_pcc.txt</tt>
 
-
+LASSO:
+* <tt>Tuning_LASSO_<embeddings_dataset>_<shuffle/noShuffle>.csv</tt>
+* <tt>Tuning_LASSO_<embeddings_dataset>_<shuffle/noShuffle>_pcc.txt</tt>
+ 
+files are stored in a folder <tt>Results/</tt> created at execution time.

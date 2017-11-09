@@ -63,10 +63,10 @@ python <script_name> <BIG5_trait> <embeddings_dataset> <dataset_path> <shuffle_d
 ```
 
 Where:
-* <b>BIG5_trait<b> <tt>O C E A N o c e a n</tt>
-* <b>embeddings_dataset<b> <tt>fasttext dataset9</tt>
-* <b>dataset_path<b> <tt>path/to/the/file</tt>
-* <b>shuffle_data<b> <tt>True False yes no</tt>
+* <b>BIG5_trait</b> <tt>O C E A N o c e a n</tt>
+* <b>embeddings_dataset</b> <tt>fasttext dataset9</tt>
+* <b>dataset_path</b> <tt>path/to/the/file</tt>
+* <b>shuffle_data</b> <tt>True False yes no</tt>
 
 
 Output

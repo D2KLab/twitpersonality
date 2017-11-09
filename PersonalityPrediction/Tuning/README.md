@@ -24,10 +24,35 @@ C = 1, 10, 100, 1000
 degree = 2, 3
 ```
 All the significant combinations are tested (es. <tt>degree</tt> is only significant when using a <tt>poly</tt> kernel), except for <tt>linear</tt> kernel which was tested only with <tt>C=1</tt>.
+
+While for LASSO, we used the following values of <tt>alpha</tt>:
+```
+alpha_lasso = [1e-15, 1e-10, 1e-8, 1e-5, 1e-4, 1e-3, 1e-2, 1, 5, 10]
+```
+
+For estimating the accuracy, we used three different measures:
+ * <b>Mean Squared Error</b>
+ * <b>Coefficient of Determination (R2)</b>
+ * <b>Pearson Correlation Coefficient</b> between actual and predicted values
+ 
+All the measures are calculated using 10-fold cross-validation.
+
+Usage
+-----
+
+### Shell Script
+```
+extensiveTuning_OCEAN.sh
+```
+### Manual execution
+
+
+
+Output
+-----
+
   
   
   
 
-```
-extensiveTuning_OCEAN.sh
-```
+

@@ -8,11 +8,11 @@ For simplicity, it is provided a bash script <tt>extensiveTuning_OCEAN.sh</tt> t
 
 The script tests two different Machine Learning techniques: LASSO and Support Vector Machines.
 Moreover, for each of the two mentioned techniques, the following method for computing word embeddings are tested:
-  *<b>Sum</b> \t asd
-  *<b>Max</b> asd
-  *<b>Min</b>
-  *<b>Average</b>
-  *<b>Concatenation</b>
+  * <b>Sum</b> \t asd
+  * <b>Max</b> asd
+  * <b>Min</b>
+  * <b>Average</b>
+  * <b>Concatenation</b>
   
   
   

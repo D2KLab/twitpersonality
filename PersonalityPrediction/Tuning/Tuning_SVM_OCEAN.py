@@ -71,6 +71,13 @@ else:
 pcc_filename = filename + "_pcc.txt"
 filename = filename + ".csv"
 
+#save lists because transformTextForTraining() changes them
+old_yO = yO
+old_yC = yC
+old_yE = yE
+old_yA = yA
+old_yN = yN
+
 [sumE, yO, yC, yE, yA, yN]  = embeddings.transformTextForTraining(wordDictionary, post_threshold, posts, old_yO, old_yC, old_yE, old_yA, old_yN, "sum", transform)
 maxE = embeddings.transformTextForTraining(wordDictionary, post_threshold, posts, old_yO, old_yC, old_yE, old_yA, old_yN, "max", transform)[0]
 minE = embeddings.transformTextForTraining(wordDictionary, post_threshold, posts, old_yO, old_yC, old_yE, old_yA, old_yN, "min", transform)[0]

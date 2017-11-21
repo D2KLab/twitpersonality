@@ -23,7 +23,7 @@ def loadEmbeddingsDataset(path):
 
 def readMyPersonality():
     data = []
-    for line in open("Dataset/statuses.txt", "r"):
+    for line in open("Dataset/statuses_unicode.txt", "r"):
         data.append(line[:-1])
     data = np.array(data)
 

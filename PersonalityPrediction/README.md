@@ -14,7 +14,7 @@ File References
 -----
 * <tt>datasetUtils.py</tt> and <tt>embeddings.py</tt> must be in the same directory as tuning files.
 * Embeddings datasets (fasttext and dataset9) <b>should</b> be in the same directory ad tuning files.
-* MyPersonality dataset must be in <tt>Dataset/<tt> folder.
+* MyPersonality dataset must be in <tt>Dataset/</tt> folder.
 
 Description
 -----

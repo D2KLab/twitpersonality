@@ -13,7 +13,7 @@ We read them, and apply the same transformations used to feed data to the algori
 Tweet-Wise vs User-Wise
 -----
 Two approaches are possible
-* <b>Tweet-wise</b> Each tweet is transformed in embedding and a personality is predicted from it. The final personality scores will be computer as the mean of the scores of each tweet.
+* <b>Tweet-Wise</b> Each tweet is transformed in embedding and a personality is predicted from it. The final personality scores will be computer as the mean of the scores of each tweet.
 * <b>User-Wise</b> Embeddings representations of tweets are merged together by computing the mean, so that we have only one vector for each user, giving us the personality score.
 
 Both option will be tested in terms of accuracy and error.

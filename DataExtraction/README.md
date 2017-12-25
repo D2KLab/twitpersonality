@@ -1,7 +1,7 @@
 Data Extraction from Twitter
 ======
 
-* *This section is under development* *
+*This section is under development*
 
 The first part of the project consists in extracting public user data available on Twitter. We are interested in tweets, number of followers/following, and basic demographic information.
 
@@ -26,4 +26,4 @@ API Endpoints
 * <tt>users/show.json?user_id =id</tt> (limit = 900) Returns the same response as the first call.
 * <tt>/friends/list</tt> (limit = 15) Returns up to 200 following usernames.
 
-All temporal windows for API limits are 15 minutes long. <tt>tweepy</tt> automatically handles timeout by waiting for that amount a time when a timeout occurs.
+All temporal windows for API limits are 15 minutes long. <tt>tweepy</tt> automatically handles timeout by waiting for that amount of time when a timeout occurs.

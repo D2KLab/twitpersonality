@@ -16,6 +16,8 @@ The script expects one of the following as input:
 
 For each one of the provided usernames, the script first checks if someone with that name exists in the twitter database; if so, it retrieves basic profile information (which includes followers/following) and tweets. It is also possible to get the lists of followers/following, to compute for example some network statistics, but be careful with API rate limits.
 
+Collected data is saved locally, a new folder is created for each user, inside of which are two text files, one for profile information and the other for tweets. These files will be used to determine the personality of the users, according the Five Factor model. For more information, see <tt>PersonalityPrediction</tt>.
+
 API Endpoints
 -----
 * <tt>GET users/show.json?screen_name=username</tt> (limit = 900) Returns basic profile information.

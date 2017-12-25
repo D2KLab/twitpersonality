@@ -51,6 +51,14 @@ For estimating the accuracy, we used three different measures:
  
 All the measures are calculated using 10-fold cross-validation.
 
+Post-Wise vs User-Wise
+-----
+How should we treat different status updates from the same user ?
+* <b>Post-Wise</b> Each post is converted into embedding and is treated as a record for training the algorithm.
+* <b>User-Wise</b> Embeddings of posts for the same user are averaged. The resulting vector is a record for the algorithm.
+
+While second option seems more reasonable, it requires a higher amount of data.
+
 Usage
 -----
 

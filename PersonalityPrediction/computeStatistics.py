@@ -1,4 +1,5 @@
 from sklearn.feature_extraction.text import CountVectorizer
+import numpy as np
 import os
 
 #9913 lines
@@ -86,6 +87,12 @@ avgN = float(sum(value for value in y_N)/len(y_N))
 maxN = float(max(value for value in y_N))
 minN = float(min(value for value in y_N))
 
+stdO = np.std(np.array(y_O))
+stdC = np.std(np.array(y_C))
+stdE = np.std(np.array(y_E))
+stdA = np.std(np.array(y_A))
+stdN = np.std(np.array(y_N))
+
 #write statistics in a file
 fp = open("Dataset/statistics.txt", "w")
 fp.write("--------------------- General statistics ----------------\n")
@@ -115,16 +122,21 @@ fp.write("\n---------------- Big5 traits statistics ----------------\n")
 fp.write("\tAverage\tOPE\t%.2f\n"%avgO)
 fp.write("\tHighest\tOPE\t%.2f\n"%maxO)
 fp.write("\tLowest\tOPE\t%.2f\n"%minO)
+fp.write("\tStd\t\tOPE\t%.3f\n\n"%stdO)
 fp.write("\tAverage\tCON\t%.2f\n"%avgC)
 fp.write("\tHighest\tCON\t%.2f\n"%maxC)
 fp.write("\tLowest\tCON\t%.2f\n"%minC)
+fp.write("\tStd\t\tCON\t%.3f\n\n"%stdC)
 fp.write("\tAverage\tEXT\t%.2f\n"%avgE)
 fp.write("\tHighest\tEXT\t%.2f\n"%maxE)
 fp.write("\tLowest\tEXT\t%.2f\n"%minE)
+fp.write("\tStd\t\tEXT\t%.3f\n\n"%stdE)
 fp.write("\tAverage\tAGR\t%.2f\n"%avgA)
 fp.write("\tHighest\tAGR\t%.2f\n"%maxA)
 fp.write("\tLowest\tAGR\t%.2f\n"%minA)
+fp.write("\tStd\t\tAGR\t%.3f\n\n"%stdA)
 fp.write("\tAverage\tNEU\t%.2f\n"%avgN)
 fp.write("\tHighest\tNEU\t%.2f\n"%maxN)
 fp.write("\tLowest\tNEU\t%.2f\n"%minN)
+fp.write("\tStd\t\tNEU\t%.3f\n\n"%stdN)
 fp.close()

@@ -155,5 +155,5 @@ for subset in users_subsets:
     for trait in ["O","C","E","A","N"]:
         trait_mse = np.mean(np.array(mse_OCEAN[trait]))
         print("\tAverage MSE for",trait,":",trait_mse)
-        with open("MPBig_results_userWise.csv", "a") as outfile:
+        with open("MPBig_results_testUserWise.csv", "a") as outfile:
             outfile.write(trait+","+str(subset)+","+str(len(posts))+","+str(trait_mse)+"\n")

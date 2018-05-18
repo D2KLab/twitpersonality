@@ -13,3 +13,6 @@ Files Description
 * **tsne.py** Python implementation of t-Distributed Stochastic Neighbour Embedding[1], for visualizing word embeddings in a two-dimensonal graph.
 * **user_tweets_statistics.py** Computes the statistics of the Twitter sample, such as number of tweets per user and average words per tweets.
 * **word_coverage.py** Computes the word coverage of FastText word embeddings on myPersonality Gold Standard, as a percentage.
+
+
+[1] L.J.P. van der Maaten and G.E. Hinton. Visualizing High-Dimensional Data Using t-SNE. Journal of Machine Learning Research 9(Nov):2579-2605, 2008.

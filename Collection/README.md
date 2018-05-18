@@ -21,6 +21,14 @@ For each one of the provided usernames, the scripts first check if someone with 
 
 Collected data is saved locally, a new folder is created for each user, inside of which are two text files, one for profile information and the other for tweets. These files will be used to determine the personality of the users, according the Five Factor model. For more information, see <tt>Test</tt>.
 
+
+Authentication
+-----
+<tt>Tweepy</tt> implements standard OAuth authentication. Both the scripts require valid authentication data to be stored in a file called **twitterAccess.txt**. The file must store the access token on the first line and the access token secret on the second line.
+
+For more information about obtaining access token refer to [Twitter Documentation](https://developer.twitter.com/en/docs/basics/authentication/overview/oauth) and [Tweepy documentation](http://tweepy.readthedocs.io/en/v3.5.0/auth_tutorial.html).
+
+
 API Endpoints
 -----
 * <tt>GET users/show.json?screen_name=username</tt> (limit = 900) Returns basic profile information.

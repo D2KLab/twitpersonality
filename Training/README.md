@@ -1,12 +1,20 @@
 Parameters' tuning for Machine Learning Models
 ======
-Python3 scripts to test machine learning models with different parameters and measure their accuracy
+Python3 scripts to test machine learning models with different parameters and measure their accuracy.
+This guide refers to the following scripts:
+
+* **Tuning_SVM.py**
+* **Tuning_LASSO.py**
+
+We also report in this repository other scripts that may be useful for training and testing the models. <tt>Tuning_SVM_OCEAN.py</tt> and <tt>Tuning_LASSO_OCEAN.py</tt> are just extensions of the formers.
+<tt>Train_SVM_models_Big.py</tt> and <tt>Train_SVM_models_Big_UserWise.py</tt> are used to train the five predictive SVM models on myPersonality big dataset, that is the one composed by 23 million status updates, whose employment and relative results are not reported in the paper. Finally, <tt>Train_SVM_models_Twitter.py</tt> uses the Twitter Gold Standard as a training set for the SVM models. That is useful to test the effectiveness of our approach when transfer learning is not applied.
 
 Requires
 -----
 * <tt>datasetUtils.py</tt>
 * <tt>embeddings.py</tt>
 * numpy
+* pandas
 * scipy
 * scikit-learn
 
@@ -18,7 +26,7 @@ File References
 
 Description
 -----
-For simplicity, it is provided a bash script <tt>extensiveTuning_OCEAN.sh</tt> that handles all the required programs' launches.
+For simplicity, it is provided a bash script <tt>extensiveTuning_OCEAN.sh</tt> that handles all the required programs' launches. It can be found in <tt>twitpersonality/Utilities</tt>.
 
 The script tests two different Machine Learning techniques: LASSO and Support Vector Machines.
 Moreover, for each of the two mentioned techniques, the following method for computing word embeddings of a post are tested:

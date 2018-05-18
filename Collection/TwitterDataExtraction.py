@@ -18,7 +18,7 @@ twitterAuthData = Path("twitterAccess.txt")
 
 if not twitterAuthData.is_file() or os.stat("twitterAccess.txt").st_size == 0:
 	#no previous authentication data, need to autenthicate via browser
-	auth = tweepy.OAuthHandler("Bo0Usm7MbQLJGTUv3jAuwY1qz", "hx0gsX49KIDsm1MgWFuuYOV1zrR06Tcz5r06RmMxn4SsR41dFr")
+	auth = tweepy.OAuthHandler("<your_consumer_api>", "<your_consumer_secret>")
 
 	try:
 	    redirect_url = auth.get_authorization_url()
@@ -48,7 +48,7 @@ else:
 	access_token_secret = twitterAuthData.readline()
 	twitterAuthData.close()
 
-auth = tweepy.OAuthHandler("Bo0Usm7MbQLJGTUv3jAuwY1qz", "hx0gsX49KIDsm1MgWFuuYOV1zrR06Tcz5r06RmMxn4SsR41dFr")
+auth = tweepy.OAuthHandler("<your_consumer_api>", "<your_consumer_secret>")
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 

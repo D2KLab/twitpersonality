@@ -26,6 +26,6 @@ MyPersonality Big
 We also report the scripts used to test the models trained on myPersonality Big. They are not so different from the ones based on myPersonality small, the only difference rly in the predictive models that are loaded at runtime.
 
 
-TEvaluating the quality of the predictions
+Evaluating the quality of the predictions
 -----
 <tt>twitusers_benchmark.py</tt> and <tt>plot_tweets_predictions.py</tt> are two utility scripts used to compare the predicted personality traits with the ground-truth labels derived from questionnaires. The first computes mean squared error and stores it in a file called <tt>twitusers_predictions_benchmark.csv</tt>; the latter plots the predicted values against the true values while at the same time storing the mean squared error in <tt>twitusers_predictions_benchmark_smallBig.csv</tt>.

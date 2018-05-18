@@ -32,7 +32,7 @@ for line in open("questionnaires.csv", "r"):
     A.append(float(parts[-7].replace(",",".")))
     N.append(float(parts[-6].replace(",",".")))
 
-for line in open("Data/personality_predictions1.csv"):
+for line in open("personality_predictions1.csv"):
     parts = line.split(",")
     O1.append(float(parts[1].replace(",",".")))
     C1.append(float(parts[2].replace(",",".")))
@@ -41,7 +41,7 @@ for line in open("Data/personality_predictions1.csv"):
     N1.append(float(parts[5].replace(",",".")))
 
 
-for line in open("Data/personality_predictions2.csv"):
+for line in open("personality_predictions2.csv"):
     parts = line.split(",")
     O2.append(float(parts[1].replace(",",".")))
     C2.append(float(parts[2].replace(",",".")))

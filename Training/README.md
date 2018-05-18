@@ -8,6 +8,8 @@ This guide refers to the following scripts:
 
 We also report in this repository other scripts that may be useful for training and testing the models. <tt>Tuning_SVM_OCEAN.py</tt> and <tt>Tuning_LASSO_OCEAN.py</tt> are just extensions of the formers.
 
+We remark with particular importance the script <tt>Train_SVM_models.py</tt> which we used to train the five final SVM models used for testing the approach on Twitter.
+
 <tt>Train_SVM_models_Big.py</tt> and <tt>Train_SVM_models_Big_UserWise.py</tt> are used to train the five predictive SVM models on myPersonality big dataset, that is the one composed by 23 million status updates, whose employment and relative results are not reported in the paper. Finally, <tt>Train_SVM_models_Twitter.py</tt> uses the Twitter Gold Standard as a training set for the SVM models. That is useful to test the effectiveness of our approach when transfer learning is not applied.
 
 Requires

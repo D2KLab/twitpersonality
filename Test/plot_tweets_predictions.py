@@ -5,7 +5,7 @@ from sklearn.metrics import mean_squared_error
 #configs
 x_scale = (0,5.5)
 y_scale = (0,5.5)
-plot_path = "Data/plots/"
+plot_path = "plots/"
 
 #load ground truth labels
 O = []
@@ -14,7 +14,7 @@ E = []
 A = []
 N = []
 
-for line in open("Data/questionnaires.csv", "r"):
+for line in open("questionnaires.csv", "r"):
     parts= line.split(";")
     O.append(float(parts[-10].replace(",",".")))
     C.append(float(parts[-9].replace(",",".")))
@@ -30,7 +30,7 @@ E1 = []
 A1 = []
 N1 = []
 
-for line in open("Data/personality_predictions1.csv"):
+for line in open("personality_predictions1.csv"):
     parts = line.split(",")
     O1.append(float(parts[1].replace(",",".")))
     C1.append(float(parts[2].replace(",",".")))
@@ -45,7 +45,7 @@ E2 = []
 A2 = []
 N2 = []
 
-for line in open("Data/personality_predictions1_big.csv"):
+for line in open("personality_predictions1_big.csv"):
     parts = line.split(",")
     O2.append(float(parts[1].replace(",",".")))
     C2.append(float(parts[2].replace(",",".")))
@@ -60,7 +60,7 @@ E3 = []
 A3 = []
 N3 = []
 
-for line in open("Data/personality_predictions1_big_userWise.csv"):
+for line in open("personality_predictions1_big_userWise.csv"):
     parts = line.split(",")
     O3.append(float(parts[1].replace(",",".")))
     C3.append(float(parts[2].replace(",",".")))
@@ -86,7 +86,7 @@ mse_E_3 = mean_squared_error(E,E3)
 mse_A_3 = mean_squared_error(A,A3)
 mse_N_3 = mean_squared_error(N,N3)
 
-fp = open("Data/twitusers_predictions_benchmark_smallBig.csv", "w")
+fp = open("twitusers_predictions_benchmark_smallBig.csv", "w")
 fp.write("mse,O,1,"+str(mse_O_1)+"\n")
 fp.write("mse,C,1,"+str(mse_C_1)+"\n")
 fp.write("mse,E,1,"+str(mse_E_1)+"\n")

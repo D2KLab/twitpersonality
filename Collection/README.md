@@ -3,8 +3,6 @@ Data Extraction from Twitter
 
 The first part of the project consists in extracting public user data available on Twitter. We are interested in tweets, number of followers/following, and basic demographic information.
 
-A first prototype was written in PHP using <tt>twitteroauth</tt> library, but the final application will be written in Python 3 with <tt>tweepy</tt> library. We only provide the final and working version written with <tt>tweepy</tt>.
-
 Description
 -----
 Twitter data can be downloaded using one of the two scripts:

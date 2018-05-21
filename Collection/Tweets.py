@@ -32,17 +32,18 @@ if not twitterAuthData.is_file() or os.stat("twitterAccess.txt").st_size == 0:
 	access_token_secret = auth.access_token_secret
 
 	twitterAuthData = open("twitterAccess.txt", "w")
-	twitterAuthData.write(auth.access_token+"\n"+auth.access_token_secret);
-	twitterAuthData.close();
+	twitterAuthData.write(auth.access_token+"\n"+auth.access_token_secret)
+	twitterAuthData.close()
 else:
 	#already got auth data, read it from file
 	twitterAuthData = open("twitterAccess.txt", "r")
-	access_token = twitterAuthData.readline()[:-1] #exclude line feed from token string
+	access_token = twitterAuthData.readline().rstrip()#[:-1] #exclude line feed from token string
 	access_token_secret = twitterAuthData.readline()
 	twitterAuthData.close()
 
-auth = tweepy.OAuthHandler("<your_consumer_api>", "<your_consumer_secret>")
-auth.set_access_token(access_token, access_token_secret)
+print(access_token+ "\n" + access_token_secret)
+
+auth = tweepy.OAuthHandler(access_token, access_token_secret)
 api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
 usernames = []

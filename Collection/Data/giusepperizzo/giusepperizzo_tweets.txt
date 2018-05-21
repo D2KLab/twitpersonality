@@ -1,0 +1,216 @@
+Interacting with books in a semantic natural fashion @googleresearch awesome! @MartinoMensio https://t.co/mbpJQc4xMf
+#personalization #nlu with #big5 prediction of today's program of thesis defenses of @ismbonweb interns jointly sup… https://t.co/zFGDlcQRlf
+#deeplearning for #recsys : alternative framings of reco tasks include contextual/time-sensitive sequence predictio… https://t.co/NMOoKrCrwL
+#chatbot and #healthcare #ai https://t.co/v2h6GDVesp @MartinoMensio https://t.co/pFEk6LNyO5
+#chatbot #dbpedia /cc @MartinoMensio https://t.co/D9AJzEdFJN
+Great report of #nips2017 @peputo @enricopalumbo91 @diegmonti @MartinoMensio tnx @Reza_Zadeh https://t.co/njzsc5RKk8
+Inspiring talk about #learning from data #graphs @enricopalumbo91 https://t.co/swD7T1QQjy
+We personalize your bot: #ai #knowledgesystem #personality. Slides of my talk at #MMC17 https://t.co/hhozHXnWke @IsmbOnweb
+Winner of #qa contest at #nips #ai @MartinoMensio https://t.co/eHTMeOyPhc
+#recsys on @netflix: personalize artwork @enricopalumbo91 @diegmonti @PasqLisena @rtroncy https://t.co/r07Df7fHut
+Review annotation to driving the content-based recommendation #recsys @KCAP2017 presented by @maponaso /cc… https://t.co/NCLDe1Mjou
+. @nandanamihindu on stage presenting our tool of #quality #assessment that applies evolutionary analyses od data u… https://t.co/KpSc8ot0MB
+@enricopalumbo91 It's SWJ, as I mixed up acronyms :) @pascalhitzler
+JWS SI #deeplearning #knowledgraph to foster AI to cognitive reasoning /cc @enricopalumbo91 https://t.co/x1K5unc1RL
+@blerinaspahiu @nexacenter @IsmbOnweb @PasTime_EIT ops! changed permission and thanks for the heads up!
+Slides of my talk about #bigdata #datapersonalization #recsys in #tourism at @nexacenter https://t.co/7WKxQG3hUI @IsmbOnweb @PasTime_EIT
+Statistical induction and knowledge led automation together for the future of #ai https://t.co/YLt0eXgHql #InnoDevRead
+ICT props' day coming up @egferro @MicheleOsella https://t.co/d96rHRp3Nx
+A successful blend of data graphs and a #personalized #recommender based on #ai technologies @IsmbOnweb @EURECOM https://t.co/9ZZGMYwEqo
+#data #chatbots: beyond understanding, towards reasoning like a human https://t.co/cl0YoHUjxr #InnoDevRead @MartinoMensio
+A technology generates #value: @PasTime_EIT VP and business model deep dive by @MicheleOsella &amp; @MssRikken… https://t.co/zbG54GGszF
+#opendata portal for #end2end #tourism and #travel #italy /cc @MicheleOsella @egferro https://t.co/9AVOGb37k8
+#tourism #bigdata #integration #recsys slides of my talk @ Milano-Bicocca https://t.co/PQzc6D9Ife @FersiniE @PasTime_EIT @3cixty @IsmbOnweb
+@IsmbOnweb #innodev #innodevread https://t.co/4XJbuN3AKH
+re. The Talking Heads Experiment by Luc Steels #ai #bots #ml #reinforcementlearning /cc @MartinoMensio https://t.co/jZiyD5vT6X
+Visitors and locals together at the center of tourist offer planning and service @3cixty #pastime https://t.co/g2XEbpEwhG
+Inspiring read on the importance of sharing data to support AI claims #autonomousdrive #ml #innodevread via @phisaz https://t.co/xVdNKNApJP
+#blockchain will foster the internet of value @phisaz https://t.co/KApNHj0J8H
+#healthcare data needs reliable and tamper-proof (by design) infrastructures. We're experimenting #blockchain… https://t.co/r2Y5QQqQCB
+https://t.co/v9JDmaQrxO to browsing sport events tailored for racers @3cixty https://t.co/rYazuzQ5Zb
+Machine Learning Yearning book #ai #innodev https://t.co/cMpYMhvDfF
+The AI dependence from training data. What AI can and cannot do today #innodevread https://t.co/xkTRcqtKpG
+"Artificial Intelligence Is the New Electricity"  https://t.co/dXkrPVbekU #innodevread
+Sounds like a challenge to investigate further /cc @maurispirito  https://t.co/rNEZq4xrlb
+Glance on a prospective domain where data integration comb with a distributed ledger can make a real impact @phisaz https://t.co/fJWQjCfNTP
+@earthling91 great presentation on harmonizing and easing the access to the LOD https://t.co/uSRiwDsmGH
+SentiME #ssa on polarity detection on amazon reviews, slides of the approach https://t.co/cddj5KcEg9 #eswc2016 @EURECOM @IsmbOnweb
+@julienplu is on stage presenting our work on "Enhancing Entity Linking by Combining NER Models" #nel #oke #eswc2016 https://t.co/YglUIFZXQq
+@nandanamihindu presents "A Two-Fold Quality Assurance Approach for Dynamic Knowledge Bases" #ESWC2016 @3cixty https://t.co/WacbOkqFkX
+@merpeltje "We need to do something" for harmonizing the Evaluation of Entity Linking Approaches #lrec2016 https://t.co/VyfaYXe0qJ
+Context-enhanced Adaptive Entity Linking https://t.co/qm7ewVgZ8F #lrec2016 #nel #adaptive joint work with @CLTLVU @IsmbOnweb @EURECOM
+@nandanamihindu actually I do, and btw tonight Indian food!
+"From Data to Knowledge for Tourists" https://t.co/u5Cw7qque7 slides of my talk at @databeerstorino @3cixty /cc @IsmbOnweb
+@eswc_conf deadline for Posters and Demos is approaching: submit your ongoing, late-breaking research, innovative demo by Mar 6th #eswc2016
+We are pleased to announce that @H2020_FREME will sponsor the 2016 NEEL Challenge https://t.co/sjHZ3asIdH @www2016ca @Microposts2016 #NLProc
+Back from holidays?Need a challenge to bootstrap the 2016?Then join the NEEL challenge https://t.co/sjHZ3asIdH @www2016ca @merpeltje #nlproc
+15 teams already joined the 2016 NEEL Challenge. What about you? CfP: https://t.co/sjHZ3asIdH @Microposts2016 #NLProc @www2016ca @merpeltje
+Willing to join the 2016 NEEL Challenge? CfP: https://t.co/pEz9dyfpZq #nlproc #neel @Microposts2016 @www2016ca
+Cities can be smarter with @3cixty.  Check out the slides of my talk @IsmbOnweb https://t.co/eQBBdSrrFm
+We take a city, we create data and we make the city smart @3cixty https://t.co/ZRZudr4o3p #smartcity
+@3cixty is the winner of the 2015 Semantic Web Challenge at #ISWC2015
+@rtroncy presents @3cixty at #ISWC2015 Semantic Web Challenge http://t.co/OV7si7PICK
+all set up! come to see our SWC paper #ISWC2015 @3cixty http://t.co/n8kit3iAz3
+#nlpdbpedia #iswc2015 @3cixty  https://t.co/1zSU1Nk0oJ
+@julienplu presenting Reveal Entities From Texts With a Hybrid Approach #nlpdbpedia #ISWC2015 @3cixty http://t.co/KkntBvsBN7
+best paper, best poster, and dissemination award for the #eurecom team #kcap2015 http://t.co/GduVju5hiy
+best paper and best student paper nominee for the "Concentric Nature of News Semantic Snapshots" @peputo @rtroncy https://t.co/omBQqDOkoA
+Corpora and data analysis on Sentiment Analysis APIs Benchmark by @monkeylearn http://t.co/uF2v20jRrL  Great job!
+"Enhancing NER using Entity Linking" @Microposts2015 #NEEL corpus used as training #nlproc /cc @julienplu @rtroncy https://t.co/5MaiiKIJG9
+@Microposts2015 #neel dataset for tweets: http://t.co/hP3t2TxpKn. Paper:  http://t.co/UHoUgHbnlx #nlproc
+Official launch of @3cixty #urbancenter #milano #eurecom Try it out http://t.co/NN7CxsUkY4 http://t.co/FiUyDoJYsh
+congrats!! https://t.co/C5kRMG0ddU
+#Microposts2015 NEEL challenge result overview http://t.co/tqxaIDqzh4 #www2015 @SpazioDati
+@SpazioDati is presenting to the @Microposts2015 the use cases and challenging in knowledge extraction from microposts
+@edipotrebol thanks for reporting and sorry for the delay (I missed the tweet). #NERDapi looks OK, do you confirm?
+28 teams expressed their intent to join the @Microposts2015 NEEL challenge http://t.co/scZ0GQCiKE Will be a tough competition! #www2015
+Still 1 more day to register for the @Microposts2015 NEEL http://t.co/96NHbLkz3S #www2015. @SpazioDati generously sponsors the prize
+We are pleased to announce that @SpazioDati will sponsor the @Microposts2015 NEEL challenge. Subscribe to https://t.co/vWrgyMQzJE #www2015
+Subscribe your team http://t.co/M9olBdUYtS and get in the @Microposts2015 NEEL http://t.co/scZ0GQCiKE ! 1.5K for the system ranking 1st
+CfP: @Microposts2015 #neel challenge http://t.co/scZ0GQCiKE . Stay tuned joining https://t.co/Z58jDekxV4 . #computationtime #typing #linking
+Preparing the new NEEL Challenge @Microposts2015 at #WWW2015 . This year focus also on typing and computational time. Stay tuned!
+@peputo is presenting #hyperTED at @linkedupproject #iswc2014 http://t.co/vprZxLQK2l
+Slides of our talk on "Inductive Entity Typing Alignment" at #ld4ie2014 #iswc2014 http://t.co/P59mxB112u #linkedtv #newsreader
+Slides of our presentation http://t.co/5Wer71jIkQ #linkedtv #newsreader #lrec2014 #o48
+@m1ci presenting Linked Hypemyms Dataset #LREC2014 #linkedtv http://t.co/hybNVAosbb
+@pgroth ya, but also licence, provenance
+Linked Data for disclosing the large amount of available Language Resources #LREC2014 #reproducibility
+NERD is under maintenance. Downtime scheduled from May 9, 6PM till May 11, 12AM CET. Sorry for the inconvenience #nerd @linkedtv
+Our presentation "CrossLanguageSpotter: A Library for Detecting Relations in Polyglot Frameworks" online at http://t.co/vUMj9CHFHz #www2014
+@raindancer brilliant catch! Yep, we should add into https://t.co/bUYILRdCLK
+Congratulations #Microsoft for the best #NEEL submission at @Microposts2014 #www2014 @linkedtv
+Don't miss the @Microposts2014 NEEL Challenge finalists http://t.co/wIa1MHAr4w. The prize is generously offered by @linkedtv. #www2014
+congrats to the 10 finalists! @telecomitaliaTw Still expecting to receive the reviews? #BigDataChallenge
+congrats for the outstanding research work, well done! RT @raindancer: Polyglot Software Development: my PhD Thesis http://t.co/9Tt1by02NY
+@aymericbrisse not yet. Curious to know more about your use case
+@rtroncy presents "Modeling Geometry and Reference Systems on the Web of Data" #lgd14 joint work with @gatemezing http://t.co/CgOXdohdHK
+released NERD v0.5.4. Diff: bug fixing and support to dataTXT @SpazioDati. Happy harmonizing your annotations! #nerd #linkedtv #ner #nel
+We are pleased to announce that @linkedtv will sponsor the @Microposts2014 NEEL Challenge http://t.co/wIa1MHihQo
+definitely, if you plan give me a buzz! RT @2dvisio: Quite interesting "n'est-ce pas" @giusepperizzo ? http://t.co/8YHs6RbzrX /cc @rtroncy
+@rtroncy @LeonDerczynski thanks for the hint! I've just made the reservation. See you in Reykjavik @LeonDerczynski  :)
+Our work on "Automatically Spotting Cross-language Relations" http://t.co/tO9Xd9RSxm presented by @raindancer at @CSMR_WCRE /cc @mtorchiano
+done my batch of reviews for @Microposts2014 . Impressed by the high quality of the papers I reviewed #WWW2014
+@Microposts2014 41 Labs expressed their intent to participate at the #neel Challenge http://t.co/wIa1MHihQo. Releasing the training set
+pretty cool! RT @raindancer: Polyglot Web Development With Grails 2 Recorded at http://t.co/YGiZ1WwWtm
+Interested to participate to  @microposts2014 #nel #challenge? Fill up the form http://t.co/dzeUQdq8SA Deadline Jan 13 #www2014
+CfP: Entity Extraction and Linking Challenge @Microposts2014 http://t.co/wIa1MHihQo #www2014. Registration till Jan 14: sign up!
+what a nice job! @MrGreenH: Seen's first Reel! http://t.co/pW9HW1SR5P @rtroncy @giusepperizzo #webdesign
+Pinelli http://t.co/avcntA1fd9 from IBM presents "Analysis of mobility data to study and optimize public transports" #smartcity #unito
+"Spotting Automatically Cross-Language Relations" pre-print at http://t.co/6CzH4TYUPf  accepted at @CSMR_WCRE /cc @raindancer @mtorchiano
+@rtroncy ya, there is just LiME2014 ahead ;) /cc @afterglowlee @peputo
+Many thanks for the pointer @EU_Social /cc @EU_Commission
+@EU_Commission @EU_Social is there an official released snapshot of the dataset? #Employment #opendata
+@rtroncy thank you! Yes, I'll tweet it. Stay tuned.
+Good luck! RT @ericcharton: At NIST Tac Kbp
+Excellent reviews! Our paper entitled "Spotting Automatically Cross-Language Relations" accepted at @CSMR_WCRE /cc @raindancer @mtorchiano
+@ericcharton ohh great! Curious to have a look at it. Would you mind to share it with me?
+great summary RT @pgroth: Trip Report: #iswc2013 - International Semantic Web Conference 2013 http://t.co/HzmJCLDWws #semtech #linkedata
+http://t.co/lwT3qLUIsi It's a step forward the Open Science. Thanks @NeelieKroesEU
+amazing work! RT @moustaki: My slides for the #isem2013 closing keynote are available here: http://t.co/Tijkaeaab2
+The slides of my talk@ UniTo "Learning with the Web.Structuring data to ease machine understanding" http://t.co/4WD0pcRTLT #nerd #ml #semweb
+@ahmadaassaf we should definitely talk ;) /cc @rtroncy
+#NERD downtime scheduled from today on, till next Tuesday May 28. Sorry for the inconvenience #linkedtv /cc @rtroncy
+Demoing "Live Topic Generation from Event Streams" http://t.co/l4YGB90yTN at booth 14 #www2013. Come to visit us!
+NERD-ML https://t.co/saigUVQruh ranked 2nd at the #msm2013 Challenge #www2013 /cc @rtroncy @merpeltje
+Now up Bernhard Haslhofer and Flacio Martins w/ Using SKOS vocabularies for improving Web Search #wole2013 #www2013
+Now up Matthias Keller w/ Search Result Presentation: Supporting Post-Search Navigation by Integration of Taxonomy Data #wole2013 #www2013
+Now up Neil Anderson w/ Visually Extracting Data Records from the Deep Web #wole2013 #www2013
+Now up Icaro Medeiros from http://t.co/Ce1AZqaU8F #wole2013 #www2013
+Now up Francesco Pizzolon w/ SEED: A Framework for Extracting Social Events from Press News #wole2013 #www2013
+Now up Elizabeth Murnane w/ RESLVE: Leveraging User Interest to Improve Entity Disambiguation on Short Text #wole2013 #www2013
+Now up Amal Zouaq w/ Can we use Linked Data Semantc Annotators for the Extraction of Domain-Relevant Expressions? #wole2013 #www2013
+Now up Paridhi Jain w/ @I seek 'fb.me': Identifying Users across Multiple Online Social Networks #wole2013 #www2013
+Now up Peter Mika from Yahoo! Research Barcelona w/ Entity Search on the Web #wole2013 #www2013
+NERD v0.5.1 released. Diff: bug fixing and support to @TextRazor. Happy harmonizing  your annotations! #NERD #linkedtv #eurecom /cc @rtroncy
+"Grab your Favorite Video Fragment" http://t.co/7pz0sqDJN3 accepted at EUROITV'13 yeah! /cc @faviki @peputo @rtroncy
+@edgarmeij #wole2013challenge deadline extended: April 24th #wole2013 #www2013 /cc @damiano10 @www2013rio
+1 day left: hurry up! submit your proposal to #wole2013challenge http://t.co/D6LUJkvBjS #wole2013 #www2013
+Yeah! Our demo about storify the Italian Election http://t.co/ijO3baT0hY is accepted at #eswc2013! #linkedtv /cc @faviki @peputo @rtroncy
+2nd Cal for papers Doing Good by Linking Entities, Developer's Challenge http://t.co/D6LUJkvBjS #wole2013challenge at #wole2013 #www2013
+@rtroncy @peputo dreaming also during the night!
+@pablomendes is not what you are looking for though, but worth to have a look https://t.co/VRug4KkDOC @writelatex
+@frederic_godin answer comes late, then rejected. Please use nerd_AT_eurecom.fr for bug reporting or general questions /cc @rtroncy
+@frederic_godin maintenance issue. Now #NERD is back /cc @rtroncy
+late submissions?no worries, still in time #wole2013. Deadline extended till March 1st 2013 #www2013
+1 day to go, till abstract deadline Feb 18 2013 23:59 Hawaii Time #wole2013 #www2013
+Participating to #apps4eu kickoff meeting #eurecom /cc @rtroncy
+Heading to Amsterdam: visit to VU University and #apps4eu kickoff meeting. Lots of work ahead #NERD #eventspotter #mediafinder
+@raindancer cool! discuss it later then. Enjoy Germany
+@raindancer I have some ideas as follow-up of SemReview. Catch up :)?
+@writelatex cool job guys! let's write a paper together @raindancer through #writelatex ;)
+awesome! "LaTeX in the Cloud: Edit and share LaTeX documents easily online https://t.co/uXdJFumG via @writelatex /cc @raindancer"
+"@www2013rio: #www2013 #workshops - #WoLE2013 Information Retrieval, Semantic Web, Database Systems and NLP" /cc @pablomendes @ericcharton
+#wole2013 Web of Linked Entities workshop http://t.co/mS2nxN6u, at #www2013, 13 May 2013, Rio de Janeiro, Brazil. Open for submissions!
+#nerd is back http://t.co/9bmkKYpr #linkedtv /cc @rtroncy
+NERD is under maintenance. Downtime scheduled from January 3rd 7PM till January 4th 9AM. Sorry for the troubles #nerd #linkedtv /cc @rtroncy
+thanks! RT @wikimeta: Very nice new interface at NERD http://t.co/b004gs52 with direct link to NLGbAse ontology for Wikimeta. This is great!
+@ericcharton cool! interested to have the slides
+@sandsfish more info about that soon at http://t.co/HfaHAgQa. You're welcome, looking for nice discussions
+@sandsfish yes it does. Btw the texts are visible only to whom submits the data, and he can decide at any time to have deleted such data
+@sandsfish pleasure for me! Play with the API and let us know your user experience, do not forget to require your api_key #nerd
+amazing presentation about #EventMedia for the #SWC at the #iswc2012 @rtroncy
+#iswc2012 I have a ticket too for the social dinner. First coming will get it.
+Now up Thomas Gottron w/ Finding Good URLs:Aligning Entities in Knowledge Bases with Public Web Document Representations #wole2012 #iswc2012
+Now up Axel-Cyrille Ngonga Ngomo w/ Query Segmentation and Resource Disambiguation Leveraging Background Knowledge #wole2012 #iswc2012
+Now up Bernardo Pereira Nunes w/ Can entities be friends? #wole2012 #iswc2012
+Now up Peter Exner w/ Entity Extraction: From Unstructured Text to DBpedia RDF triples #wole2012 #iswc2012
+Now up Bianca De O. Pereira w/ A Semantic Best-Effort Approach for Extracting Structured Discourse Graphs from Wikipedia #wole2012 #iswc2012
+Now up Aleksander Pohl w/ Classifying the Wikipedia Articles into the OpenCyc Taxonomy #wole2012 #iswc2012
+Now up Daniel Hladky w/ Enabling Russian National Knowledge with Linked Open Data (LOD Russia) #wole2012 #iswc2012
+Now up Bianca De O. Pereira w/ Discovering Names in Linked Data Datasets #wole2012 #iswc2102
+Now up Gianluca Quercini w/ Facetted Browsing on Extracted Fusion Tables Data for Digital Cities #wole2012 #iswc2012
+Now up Tobias Kuhn w/ Underspecified Scientific Claims in Nanopublications #wole2012 #iswc2012
+Now up Tom De Nies w/ Bringing Newsworthiness into the 21st Century #wole2012 #iswc2012
+Now up Fabian M. Suchanek w/ From Big Data to Good Data #wole2012
+@gatemezing @RubenVerborgh in also @afterglowlee. See you in half a hour in the lobby?
+#wole2012 @ #iswc2012 Call for Participation http://t.co/PZ2yuTBk
+@peputo yeah! done thanks :) /cc @rtroncy @tomayac
+@rtroncy http://t.co/1xYCsmMP the content is unavailable now. Someone has downloaded it? /cc @peputo @tomayac
+Glad to hack #mediafinder with @tomayac in EURECOM for the next days /cc @rtroncy @peputo
+The proceedings of the #wole2012 workshop at #iswc2012 are online at http://t.co/9PP44yMD .
+inspiring! RT @rtroncy: "Dial E for Events", very nice slide set from @laroyo: http://t.co/zuhHB8BR /
+coffee machine is back at #eurecom. Things are going definitively better :)
+:) RT @rtroncy: Yeah, #ACM is  finally able to generate a copyright form when authors have accentuated characters! #progress #acmmm2012
+A provisional program of #wole2012 workshop at #iswc2012 is online, check it at http://t.co/leF1ccJ7
+just finished my assignments for #swaie2012. Looking forward to see opinion from other reviewers
+@rtroncy @tomayac @afterglowlee good job guys! #iswc2012 here we are
+11 papers accepted for #WoLE2012, workshop at #iswc2012, 6 as long and 5 as short presentations
+5 days left: hurry up! Web of Linked Entities: deadline August 6, 2012 (23.59 Hawaiian time) #wole2012
+Social Media folks, check out the new digital nightlife magazine by @RubenVerborgh, @rtroncy, @tomayac @peputo &amp; me at https://t.co/swNtKlku
+@2dvisio "The Web.... millions of digital torches carrying the spirit of the Games..." http://t.co/kuN4Y2Qr
+Web of Linked Entities: deadline extended August 6, 2012 (23.59 Hawaiian time) #wole2012
+A social networking privacy experiment http://t.co/adGjXx73 via @callumhaywood
+@AnsAlghamdi looking forward to fruitful discussions on topics about IR,NLP,SW http://t.co/6TgyVa5L if your work touches these topics
+"@gatemezing: Brainstorming article: "Why check-in in 4Square is Not Fair: Need for more semantics" #Eurecom #SemWeb" @rtroncy @peputo
+@ericcharton yeah! excellent news, now the best to finalize the organization for the WOLE2012 #iswc2012. Thanks a lot for your help :)
+The Web of Linked Entities (WOLE2012) has been accepted as a workshop at #iswc2012 :) /cc @pablomendes @wikimeta @kurzum @Aditya @rtroncy
+#nerd http://t.co/9bmpiyyB at session demos 4 @eacl2012 /cc @rtroncy
+Lift NLP extraction results to the LOD cloud - talk at LDOW'12 http://t.co/MzXwzld5 /cc @rtroncy
+#NERD 0.4.2 released at http://t.co/9bmpiyyB, with many improvements and bugs fixed /cc @rtroncy
+#nerd paper accepted for the #ldow2012 yeah! @rtroncy
+@_benza thanks :D. Subscribed and now waiting for the confimation. Did you try it? Impressions?
+thanks @wikimeta and congrats for the http://t.co/rgw3iS6h
+@_benza io :)
+Finally, after crazy days, #NERD is working again http://t.co/9bmpiyyB. Thanks @rtroncy. Apologies for the interruption.
+Unfortunately #NERD is again off, we are facing several DoS attacks. Hopefully, Monday it will be back @wikimeta /cc @rtroncy
+#NERD is back at http://t.co/9bmpiyyB /cc @rtroncy
+#NERD is part of NIF 1.0 http://t.co/JhiKT2wN  /cc @rtroncy
+inspiring #wekex2011 at #iswc2011. We will wait to create the new benchmark of NLP extractors /cc @rtroncy
+DeepQA http://t.co/MpnLNqkV impressive project. It extracts knowledge from text and suggest answer #deepqa /cc @rtroncy
+List of tags for your tweets and flickr media at #iswc2011 http://t.co/4evb4iVM /cc @rtroncy @gatemezing
+EventMedia beta (http://t.co/GOavcpNG) runs on Linked Data API /cc @rtroncy
+NERD (http://t.co/8j89AbRn) v0.3 released:support to Evri and Yahoo! term extraction and text content-length checking #nerd /cc @rtroncy
+@_benza finding out a public SCORMs dataset to evaluate #zenaminer.SCORM is an absolete standard, no longer used in e-learning :(
+@iayxy Hi Camelia, fine thanks! Me too, I prefer the pac-man one
+Thanks @mdaquin @rtroncy interesting discussion about #zenaminer /cc @_benza, @servetti
+Thanks @tomayac for all suggestions, next step: implement NERD REST API #nerd /cc @rtroncy
+@pablomendes Thanks Pablo! /cc @rtroncy
+@pablomendes something wrong with this dummy Spotlight POST http://t.co/i2rxENr? /cc @rtroncy
+NERD : call for internship http://t.co/1c6i7h5 (cc @rtroncy)
+@rtroncy congratulations :)
+Morning, slowly moving to Turin. Tomorrow Didamatica 2011 @_benza @servetti and the day after Giro. yeeeeah!
+finally, deadlines have been fired! Now, I need a week end for relaxing
+3 deadlines in 3 days: I'll do it! good night
+Lucky time, another paper is gone. Thank you @ikoichi and @servetti
+The extended version of Zenaminer (http://zenaminer.sourceforge.net/) han been accepted at Linked Learning yuhhh!
+Welcome Zenaminer http://sourceforge.net/projects/zenaminer/ and the first paper is gone

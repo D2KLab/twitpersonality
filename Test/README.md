@@ -36,7 +36,7 @@ In order to make the experiment easier to replicate, we report an example of usi
 
 ### Requirements:
 * A file containing the ground truth values of users' personality scores (<tt>questionnaires.csv</tt>).
-* A collection of tweets for one or more users, stored in <tt>/Data/<username>/<username>_tweets.txt</tt>.
+* A collection of tweets for one or more users, stored in <tt>/Data/username/username_tweets.txt</tt>.
 
 We launch <tt>predict_personality1.py</tt> and specify either a username or a filename containing a list of usernames, one per line. For each user, the script performs the following operations on his tweets (in this order): cleaning, preprocessing, vector space transformation.
 Vector representation of tweets are fed to the machine learning models that compute a personality score for each one of the BIG 5 trait, and are saved in <tt>personality_predictions1.csv</tt> under the same directory.

@@ -34,4 +34,10 @@ Usage example
 -----
 In order to make the experiment easier to replicate, we report an example of using the models to predict personality of unknown users and evaluating the accuracy.
 
-We should already have a collection of downloaded tweets for one or more users. We launch <tt>predict_personality1.pt</tt> and specify either a username or a filename containing a list of usernames, one per line. [Da continuare]
+### Requirements:
+* A file containing the ground truth values of users' personality scores (<tt>questionnaires.csv</tt>).
+* A collection of tweets for one or more users, stored in <tt>/Data/<username>/<username>_tweets.txt</tt>.
+
+We launch <tt>predict_personality1.py</tt> and specify either a username or a filename containing a list of usernames, one per line. For each user, the script performs the following operations on his tweets (in this order): cleaning, preprocessing, vector space transformation.
+Vector representation of tweets are fed to the machine learning models that compute a personality score for each one of the BIG 5 trait, and are saved in <tt>personality_predictions1.csv</tt> under the same directory.
+To compute the MSE over the predicted values, we execute <tt>twitusers_benchmark.py</tt> which reads both <tt>questionnaires.csv</tt> and <tt>personality_predictions1.csv</tt>, and compares the values for each user and for each trait. Mean squared error values are stored in <tt>twitusers_predictions_benchmark.csv</tt>.

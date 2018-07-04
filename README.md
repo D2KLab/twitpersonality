@@ -5,9 +5,9 @@ twitpersonality implements a supervised learning approach to compute personality
 
 How to Use
 ----
-twitpersonality needs to learn from examples, first thing is to read [training](https://github.com/D2KLab/twitpersonality/tree/master/Training). 
+twitpersonality needs to learn from examples, first thing is to read [training](https://github.com/D2KLab/twitpersonality/tree/master/training). 
 
-Once the models are created, then you can do some tests, please refer to [test](https://github.com/D2KLab/twitpersonality/tree/master/Test)
+Once the models are created, then you can do some tests, please refer to [test](https://github.com/D2KLab/twitpersonality/tree/master/test)
 
 How to Cite
 -----

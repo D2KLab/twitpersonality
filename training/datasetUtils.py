@@ -30,7 +30,7 @@ def loadEmbeddingsDataset(path, binaryFormat):
 
 def readMyPersonality():
     data = []
-    for line in open("Dataset/statuses_unicode.txt", "r"):
+    for line in open("dataset/statuses_unicode.txt", "r"):
         data.append(line[:-1])
     data = np.array(data)
 
@@ -40,7 +40,7 @@ def readMyPersonality():
     y_A = np.zeros(1)
     y_N = np.zeros(1)
     i=0
-    for line in open("Dataset/big5labels.txt", "r"):
+    for line in open("dataset/big5labels.txt", "r"):
         big5_str = line[:-1].split(" ")
         if i==0:
             y_O[0] = float(big5_str[0])
@@ -68,7 +68,7 @@ def readMyPersonalityUserWise():
     y_N_all = np.zeros(1)
     old_id = ""
     text = ""
-    for line in open("Dataset/mypersonality_final.csv", "r"):
+    for line in open("dataset/mypersonality_final.csv", "r"):
         user_id = line.split(',')[0][1:]
         status = line.split(user_id)[1][3:].split('"",')[0]
         big5_str = line.split(status)[1][3:].split(',""')[0].split(",")
@@ -148,7 +148,7 @@ def parseMyPersonality():
     sizes = []
 
     #parse the dataset file one line at a time
-    for line in open("Dataset/mypersonality_final.csv", "r"):
+    for line in open("dataset/mypersonality_final.csv", "r"):
         user_id = line.split(',')[0][1:]
         status = line.split(user_id)[1][3:].split('"",')[0]
         big5 = line.split(status)[1][3:].split(',""')[0].split(",")
@@ -163,20 +163,20 @@ def parseMyPersonality():
         y_O.append(float(big5[4]))
 
 
-    if not os.path.exists("Dataset"):
-        os.makedirs("Dataset")
+    if not os.path.exists("dataset"):
+        os.makedirs("dataset")
 
-    fp = open("Dataset/statuses.txt", "w")
+    fp = open("dataset/statuses.txt", "w")
     for status in data:
         fp.write(status+"\n")
     fp.close()
 
-    fp = open("Dataset/big5labels.txt", "w")
+    fp = open("dataset/big5labels.txt", "w")
     for i in range(0,len(data)):
         fp.write(str(y_O[i])+" "+str(y_C[i])+" "+str(y_E[i])+" "+str(y_A[i])+" "+str(y_N[i])+"\n")
     fp.close()
 
-    fp = open("Dataset/nfriends.txt", "w")
+    fp = open("dataset/nfriends.txt", "w")
     for size in sizes:
         fp.write(str(size)+"\n")
 
